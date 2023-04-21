@@ -9,6 +9,6 @@ Refernce links:
 
 
 Anomaly detection :
-https://ieeexplore.ieee.org/document/9574464
-https://medium.com/grabngoinfo/time-series-anomaly-detection-using-prophet-in-python-877d2b7b14b4
+1. https://ieeexplore.ieee.org/document/9574464
+2. https://medium.com/grabngoinfo/time-series-anomaly-detection-using-prophet-in-python-877d2b7b14b4
 
